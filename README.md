@@ -1,13 +1,14 @@
-# Responsive Plants Website 🎍 
-## [Watch it on youtube](https://youtu.be/lpzExNZDizI)
-### Responsive Plants Website 🎍
+# CareConnect CKD Portal 🧑‍⚕️
 
-- Responsive Plants Website Using HTML, CSS and JavaScript.
-- Contains animations when scrolling.
+
+
+- Model
+- UI Elements
 - Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Backend Server yet to be established
+- Form integrated w ML Model
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- Changes needed to be made: Integrate Manav and Dinesh's local files
+- Make form responsive
 
-![plants website](/preview.png)
+
