@@ -110,34 +110,21 @@ img{
   height: auto;
 }
 
-.diagnose__title{
-  font-weight: 600;
-  margin-bottom: 3rem;
-  text-align: center;
-  margin-bottom: 1rem;
-
-}
-
 .l-form{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 75vh;
+  height: 100vh;
 }
 .form{
-  margin-top: -2rem;
-  margin-bottom: .3rem;
   width: 360px;
   padding: 4rem 2rem;
   border-radius: 1rem;
   box-shadow: 0 10px 25px rgba(92,99,105,.2);
-  height: 500px;
-  overflow-y: scroll;
 }
 .form__title{
   font-weight: 400;
   margin-bottom: 3rem;
-  align-items: center;
 }
 .form__div{
   position: relative;
@@ -1145,7 +1132,7 @@ the website, in dark theme
   }
 }
 
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 1200px){
   .home__social{
     right: -3rem;
     row-gap: 4.5rem;
@@ -1168,5 +1155,4 @@ the website, in dark theme
   .scrollup{
     right: 3rem;
   }
-
 }
