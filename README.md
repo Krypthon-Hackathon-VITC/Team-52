@@ -21,9 +21,11 @@
 
 ## Preview
 - Web Version
+- 
 ![preview](preview.png)
 
 - Mobile Version
+- 
 ![preview](preview2.jpeg)
 
 
