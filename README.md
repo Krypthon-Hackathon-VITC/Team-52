@@ -19,6 +19,9 @@
 - Integration of tracker elements with wearable OS, such as FitBits and Apple Watches: MockUp components
 
 
+## Preview
+![preview](preview.png)
+
 
 
 
